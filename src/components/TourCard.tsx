@@ -35,7 +35,7 @@ export function TourCard({ tour }: TourCardProps) {
   const handleWhatsAppClick = () => {
     const message = `Olá! Gostaria de saber mais sobre o passeio: ${tour.title}`;
     window.open(
-      `https://wa.me/5561999999999?text=${encodeURIComponent(message)}`,
+      `https://wa.me/559887207175?text=${encodeURIComponent(message)}`,
       "_blank",
     );
   };

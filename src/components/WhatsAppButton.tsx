@@ -28,7 +28,7 @@ export function WhatsAppButton() {
   }, [isVisible]);
 
   const handleClick = () => {
-    window.open('https://wa.me/5561999999999?text=Olá! Gostaria de saber mais sobre os passeios.', '_blank');
+    window.open('https://wa.me/559887207175?text=Olá! Gostaria de saber mais sobre os passeios.', '_blank');
   };
 
   if (!isVisible) return null;

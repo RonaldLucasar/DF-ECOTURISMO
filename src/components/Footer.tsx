@@ -67,11 +67,11 @@ export function Footer() {
             <ul className="space-y-3 text-green-100">
               <li className="flex items-center">
                 <Phone className="w-4 h-4 mr-2" />
-                <span>(61) 99999-9999</span>
+                <span>(98) 98720-7175</span>
               </li>
               <li className="flex items-center">
                 <Mail className="w-4 h-4 mr-2" />
-                <span>contato@dfecoturismo.com.br</span>
+                <span>dfecoturismo54@gmail.com</span>
               </li>
             </ul>
           </div>

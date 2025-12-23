@@ -2,6 +2,8 @@ import React from 'react';
 import { MapPin, Phone, Mail, Clock } from 'lucide-react';
 
 export function Location() {
+  const mapSrc = "https://www.google.com/maps/dir/-2.7557888,-42.8244992/R.+Santa+Luzia,+Barreirinhas+-+MA,+65590-000/@-2.7578393,-42.8193817,21z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x7f21fd2020a0b6d:0x410b7cce86952dee!2m2!1d-42.8192266!2d-2.7579043?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D";
+
   return (
     <section id="localizacao" className="py-20 px-4 bg-white">
       <div className="max-w-7xl mx-auto">
@@ -39,7 +41,7 @@ export function Location() {
                   </div>
                   <div>
                     <h4 className="text-gray-900 mb-1">Telefone / WhatsApp</h4>
-                    <p className="text-gray-600">(61) 99999-9999</p>
+                    <p className="text-gray-600">(98) 98720-7175</p>
                   </div>
                 </div>
                 
@@ -49,7 +51,7 @@ export function Location() {
                   </div>
                   <div>
                     <h4 className="text-gray-900 mb-1">E-mail</h4>
-                    <p className="text-gray-600">contato@dfecoturismo.com.br</p>
+                    <p className="text-gray-600">dfecoturismo54@gmail.com</p>
                   </div>
                 </div>
                 
@@ -73,15 +75,15 @@ export function Location() {
           {/* Map */}
           <div className="h-[500px] rounded-lg overflow-hidden shadow-lg">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d127182.85076849398!2d-42.90574738476563!3d-2.757499500000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x7f0c9f92e8b3e8f%3A0x2c8f8f8f8f8f8f8f!2sBarreirinhas%2C%20MA!5e0!3m2!1spt-BR!2sbr!4v1234567890123!5m2!1spt-BR!2sbr"
+              src={mapSrc}
               width="100%"
               height="100%"
               style={{ border: 0 }}
               allowFullScreen
               loading="lazy"
-              referrerPolicy="no-referrer-when-downgrade"
+
               title="Localização DF Ecoturismo - Barreirinhas, MA"
-            ></iframe>
+            />
           </div>
         </div>
       </div>
