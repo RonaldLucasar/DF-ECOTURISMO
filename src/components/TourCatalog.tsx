@@ -33,7 +33,7 @@ const tours = [
     id: 4,
     title: 'PASSEIO DE QUADRICICLO',
     description: 'Adrenalina pura! Pilote quadriciclos pelas dunas dos Lençóis Maranhenses, visitando lagoas escondidas e paisagens espetaculares. Para os aventureiros de plantão.',
-    image: 'https://unsplash.com/pt-br/fotografias/os-quadriciclos-estao-atravessando-o-deserto-arenoso-X-8FZly-wfM',
+    image: 'https://images.unsplash.com/photo-1607961030309-0d5e192734e7?q=80&w=964&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     duration: '8 horas',
     difficulty: 'Moderada',
     price: 'R$ 520 - R$ 650'
