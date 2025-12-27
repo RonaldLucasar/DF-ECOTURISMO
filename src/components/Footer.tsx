@@ -24,7 +24,7 @@ export function Footer() {
                 <Facebook className="w-5 h-5" />
               </a>
               <a 
-                href="https://instagram.com/_dfecoturismo_" 
+                href="https://instagram.com/_dfecoturismobhs_" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-green-800 p-2 rounded-full hover:bg-green-700 transition-colors"
