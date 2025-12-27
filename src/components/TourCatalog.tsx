@@ -24,7 +24,7 @@ const tours = [
     id: 3,
     title: 'LAGOA AZUL / LAGOA DO PEIXE & LAGOA DA PREGUIÇA',
     description: 'Passeio clássico pelas lagoas mais famosas dos Lençóis Maranhenses. Águas cristalinas de cor azul turquesa cercadas por dunas brancas. Um verdadeiro paraíso na terra.',
-    image: 'https://unsplash.com/pt-br/fotografias/mulher-sentada-na-areia-branca-perto-do-corpo-da-agua-QpiCrXw1zX8',
+    image: 'https://images.unsplash.com/photo-1650623598032-4fddce25b34f?q=80&w=957&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     duration: '4 horas',
     difficulty: 'Fácil',
     price: 'R$ 120 - R$ 170'
@@ -51,7 +51,7 @@ const tours = [
     id: 6,
     title: 'CARDOSA BOIA CROSS',
     description: 'Relaxe descendo o cristalino Rio Formigas em boias, observando a vegetação nativa da chapada maranhense. Perfeito para o último dia na região.',
-    image: 'https://drive.google.com/file/d/11Lmx0vEsSTIk8go6Xv0E5eYUCtKfNymx/view?usp=sharing',
+    image: 'https://images.unsplash.com/photo-1564965994764-e63220df1bb6?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     duration: '4 horas',
     difficulty: 'Fácil',
     price: 'R$ 120 - R$ 130'
