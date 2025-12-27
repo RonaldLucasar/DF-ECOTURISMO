@@ -12,7 +12,7 @@ export function Footer() {
           <div>
             <h3 className="text-2xl mb-4">DF ECOTURISMO</h3>
             <p className="text-green-100 mb-4">
-              Proporcionando experiências únicas em contato com a natureza do Distrito Federal desde 2015.
+              Proporcionando experiências únicas em contato com a natureza dos Lençóis Maranhenses desde 2015.
             </p>
             <div className="flex gap-4">
               <a 
@@ -24,7 +24,7 @@ export function Footer() {
                 <Facebook className="w-5 h-5" />
               </a>
               <a 
-                href="https://instagram.com" 
+                href="https://instagram.com/_dfecoturismo_" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="bg-green-800 p-2 rounded-full hover:bg-green-700 transition-colors"

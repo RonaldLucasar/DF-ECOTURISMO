@@ -2,7 +2,7 @@ import React from 'react';
 import { MapPin, Phone, Mail, Clock } from 'lucide-react';
 
 export function Location() {
-  const mapSrc = "https://www.google.com/maps/dir/-2.7557888,-42.8244992/R.+Santa+Luzia,+Barreirinhas+-+MA,+65590-000/@-2.7578393,-42.8193817,21z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x7f21fd2020a0b6d:0x410b7cce86952dee!2m2!1d-42.8192266!2d-2.7579043?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D";
+  const mapSrc = "https://www.openstreetmap.org/export/embed.html?bbox=-42.85,-2.78,-42.80,-2.74&layer=mapnik&marker=-2.7579,-42.8192";
 
   return (
     <section id="localizacao" className="py-20 px-4 bg-white">
