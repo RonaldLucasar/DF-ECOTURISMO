@@ -15,7 +15,7 @@ const tours = [
     id: 2,
     title: 'Trekking de 1 a 3 dias',
     description: 'Aventura épica atravessando os Lençóis Maranhenses a pé. Caminhe pelas dunas infinitas, lagoas cristalinas e vilas tradicionais. Uma experiência única e inesquecível.',
-    image: 'https://images.unsplash.com/photo-1761207215128-229b6f8c1174?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx0cmVra2luZyUyMGRlc2VydCUyMGFkdmVudHVyZXxlbnwxfHx8fDE3NjYwMDE5NDJ8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: 'https://images.unsplash.com/photo-1561916476-dd89cf141f24?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&q=80&w=1080',
     duration: '1 a 3 dias',
     difficulty: 'Difícil',
     price: 'R$ 1.500 - R$ 1.900'
@@ -24,7 +24,7 @@ const tours = [
     id: 3,
     title: 'LAGOA AZUL / LAGOA DO PEIXE & LAGOA DA PREGUIÇA',
     description: 'Passeio clássico pelas lagoas mais famosas dos Lençóis Maranhenses. Águas cristalinas de cor azul turquesa cercadas por dunas brancas. Um verdadeiro paraíso na terra.',
-    image: 'https://images.unsplash.com/photo-1597034331361-0fad04cd0ed6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxsZW5jb2lzJTIwbWFyYW5oZW5zZXMlMjBsYWdvb258ZW58MXx8fHwxNzY2MDAxOTM4fDA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: 'https://unsplash.com/pt-br/fotografias/mulher-sentada-na-areia-branca-perto-do-corpo-da-agua-QpiCrXw1zX8',
     duration: '4 horas',
     difficulty: 'Fácil',
     price: 'R$ 120 - R$ 170'
@@ -33,7 +33,7 @@ const tours = [
     id: 4,
     title: 'PASSEIO DE QUADRICICLO',
     description: 'Adrenalina pura! Pilote quadriciclos pelas dunas dos Lençóis Maranhenses, visitando lagoas escondidas e paisagens espetaculares. Para os aventureiros de plantão.',
-    image: 'https://images.unsplash.com/photo-1762538190462-0a70f7a20612?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxxdWFkcmljaWNsbyUyMGR1bmVzJTIwYWR2ZW50dXJlfGVufDF8fHx8MTc2NjAwMTkzOXww&ixlib=rb-4.1.0&q=80&w=1080',
+    image: 'https://unsplash.com/pt-br/fotografias/os-quadriciclos-estao-atravessando-o-deserto-arenoso-X-8FZly-wfM',
     duration: '8 horas',
     difficulty: 'Moderada',
     price: 'R$ 520 - R$ 650'
@@ -51,7 +51,7 @@ const tours = [
     id: 6,
     title: 'CARDOSA BOIA CROSS',
     description: 'Relaxe descendo o cristalino Rio Formigas em boias, observando a vegetação nativa da chapada maranhense. Perfeito para o último dia na região.',
-    image: 'https://images.unsplash.com/photo-1657985022166-0326dd41260d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxyaXZlciUyMGZsb2F0aW5nJTIwYm9pYXxlbnwxfHx8fDE3NjYwMDE5Mzl8MA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: 'https://drive.google.com/file/d/11Lmx0vEsSTIk8go6Xv0E5eYUCtKfNymx/view?usp=sharing',
     duration: '4 horas',
     difficulty: 'Fácil',
     price: 'R$ 120 - R$ 130'
@@ -60,9 +60,9 @@ const tours = [
     id: 7,
     title: 'SOBREVÔO',
     description: 'Veja os Lençóis Maranhenses de cima! Voos panorâmicos com 4 rotas diferentes. Contemple as dunas infinitas, lagoas azuis e a imensidão deste deserto brasileiro único.',
-    image: 'https://images.unsplash.com/photo-1689770429297-bb8488af924c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxhZXJpYWwlMjB2aWV3JTIwZGVzZXJ0JTIwZHVuZXN8ZW58MXx8fHwxNzY2MDAxOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080',
+    image: 'https://images.unsplash.com/photo-1591870510323-e20965f14d69?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&q=80&w=1080',
     duration: '30min a 1h',
-    difficulty: 'Fácil',
+    difficulty: 'Moderada',
     price: 'R$ 950 - R$ 1.800'
   }
 ];
